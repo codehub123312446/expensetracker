@@ -38,8 +38,7 @@ For Hardware:
 
 ### Implementation
 For Software:
-# Installation
-git clone 
+
 
 
 
@@ -47,11 +46,11 @@ git clone
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot 2025-02-09 064306.png]()
+![Screenshot 2025-02-09 064306.png](https://github.com/codehub123312446/expensetracker/blob/main/image1.png/Screenshot%202025-02-09%20064306.png)
 
-![Screenshot2025-02-09064419.png]
+![Screenshot2025-02-09064419.png](https://github.com/codehub123312446/expensetracker/blob/main/image1.png/Screenshot%202025-02-09%20064419.png)
 
-![Screenshot2025-02-09064804.png]
+![Screenshot2025-02-09064804.png](https://github.com/codehub123312446/expensetracker/blob/main/image1.png/Screenshot%202025-02-09%20064804.png)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
