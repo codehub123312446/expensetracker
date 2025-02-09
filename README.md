@@ -61,7 +61,7 @@ For Software:
 
 
 # Build Photos
-![Team](codehub123312446/expensetracker/image1.png/WhatsApp Image 2025-02-09 at 10.19.49 AM.jpeg)
+![Team](https://github.com/codehub123312446/expensetracker/blob/main/image1.png/WhatsApp%20Image%202025-02-09%20at%2010.19.49%20AM.jpeg)
 
 
 
